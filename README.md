@@ -6,5 +6,5 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 Run `docker-compose up --build`. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
-# SAMPLES
+# SAMPLESCOMMIT
 
